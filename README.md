@@ -1,0 +1,1 @@
+Esse projeto e licenciada pelo Alura com intuido de ensinamento e aprendizagem sobre o git.
